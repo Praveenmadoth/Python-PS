@@ -142,6 +142,12 @@
 # rev=name[::-1]
 # print("reverse",rev)
 
+# s=input("enter a name:")
+# rev=" "
+# for i in s:
+#     rev=i+rev
+# print(rev)
+
 # 16. Check for Palindrome String
 # s = input("enter the string: ")
 # rev = ""
@@ -355,3 +361,11 @@
 #     a=b
 #     b=c
 #     n-=1
+
+# n=7
+# a,b=0,1
+# for i in range (n):
+#     print(a, end=" ")
+#     c=a+b
+#     a=b
+#     b=c
